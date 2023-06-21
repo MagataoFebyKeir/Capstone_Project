@@ -1,0 +1,8 @@
+on vscode terminal type:
+
+cd admin
+
+npm i react-to-print
+
+#note:
+- copy the components folder to the students directory.
